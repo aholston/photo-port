@@ -13,7 +13,6 @@ exports[`Gallery is rendering matches snapshot 1`] = `
     </p>
     <div>
       <div>
-        return (
         <div
           class="flex-row"
         >
