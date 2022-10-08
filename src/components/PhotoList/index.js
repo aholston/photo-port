@@ -106,8 +106,6 @@ function PhotoList({ category }) {
 
   return (
     <div>
-      return (
-
           <div className="flex-row">
             {currentPhotos.map((image, i) => (
               <img
